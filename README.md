@@ -1,6 +1,6 @@
 # T3chFlicks - BPM Counter Widget
 
-[Blog Post at Medium](https://www.google.com)
+[Blog Post at Medium](https://t3chflicks.medium.com/make-your-own-widgets-easily-speedy-bpm-counter-in-osx-dashboard-87756edfa4e4)
 
 ## Usage (Non Safari Users)
 Open any of the the `.html` files in your browser.
